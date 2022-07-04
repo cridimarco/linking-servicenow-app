@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Company Event " max_length="40" name="x_845659_demo_even_company_event" sizeclass="2" type="collection">
+        <element label="Confirmed" max_length="40" name="confirmed" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Event type" max_length="40" name="event_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Indoor" value="indoor"/>
+                <element inactive_on_update="false" label="Online" value="online"/>
+                <element inactive_on_update="false" label="Outdoor" value="outdoor"/>
+            </choice>
+        </element>
+        <element label="Max partecipants" max_length="40" name="max_partecipants" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Name " max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="255" name="short_description" type="string_full_utf8"/>
+    </element>
+</database>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="323b39ec2f201110ccd1d7492799b65a" sys_domain="global" table="x_845659_demo_even_company_event" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-04 10:41:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c33b39ec2f201110ccd1d7492799b69b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_845659_demo_even_company_event" name="x_845659_demo_even_company_event" sys_domain="global" view="Default view">323b39ec2f201110ccd1d7492799b65a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_845659_demo_even_company_event" sys_domain="global" view="Default view">c525b5682f201110ccd1d7492799b65a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-04 10:41:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-04 10:41:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf3b39ec2f201110ccd1d7492799b69b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_845659_demo_even_company_event" name="x_845659_demo_even_company_event" sys_domain="global" view="Default view">323b39ec2f201110ccd1d7492799b65a</sys_ui_form>
+            <sys_ui_section caption="Info" display_value="Info" name="x_845659_demo_even_company_event" sys_domain="global" view="Default view">723b39ec2f201110ccd1d7492799b659</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-04 10:41:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-04 10:42:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51abfdec2f201110ccd1d7492799b688</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_845659_demo_even_company_event" name="x_845659_demo_even_company_event" sys_domain="global" view="Default view">323b39ec2f201110ccd1d7492799b65a</sys_ui_form>
+            <sys_ui_section caption="MetaData" display_value="MetaData" name="x_845659_demo_even_company_event" sys_domain="global" view="Default view">15abfdec2f201110ccd1d7492799b685</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-04 10:42:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_845659_demo_even_company_event</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-04 10:41:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>323b39ec2f201110ccd1d7492799b65a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_845659_demo_even_company_event</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Demo Events " source="x_845659_demo_even">6941fd202f201110ccd1d7492799b662</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo Events ">6941fd202f201110ccd1d7492799b662</sys_scope>
+            <sys_update_name>sys_ui_form_sections_323b39ec2f201110ccd1d7492799b65a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-04 10:41:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
